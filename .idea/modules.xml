@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SACS/SACS.iml" filepath="$PROJECT_DIR$/SACS/SACS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SFM/SFM.iml" filepath="$PROJECT_DIR$/SFM/SFM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SomeIPythonModules.iml" filepath="$PROJECT_DIR$/SomeIPythonModules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stepic/Stepic.iml" filepath="$PROJECT_DIR$/Stepic/Stepic.iml" />
+    </modules>
+  </component>
+</project>
